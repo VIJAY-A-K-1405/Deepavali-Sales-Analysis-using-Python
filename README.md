@@ -34,6 +34,9 @@ These findings underscore the importance of targeted strategies to enhance custo
 ## Conclusion
 The project demonstrates how data-driven insights can shape customer experience and enhance sales strategies. For detailed information, feel free to explore the code and findings within this repository.
 
+> **Complete project explained on LinkedIn:** https://www.linkedin.com/posts/vijayashokkarlawad_jupyternotebook-dataanalytics-dataanalysis-activity-7142369094556602368-7bar?utm_source=share&utm_medium=member_desktop
+
+
  ## Contact Information
 
 Connect with me on LinkedIn: [VIJAY ASHOK KARLAWAD](https://www.linkedin.com/in/vijayashokkarlawad/)
